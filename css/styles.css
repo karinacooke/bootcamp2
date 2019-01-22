@@ -1,0 +1,24 @@
+.container-fluid {
+  color: beige;
+}
+
+.row {
+  color: turquoise;
+}
+
+.col-md-12 {
+  color: aqua;
+}
+
+header {
+  height: 200px;
+  background-color: lavender;
+}
+
+.col-md-9 {
+  color: magenta;
+}
+
+.col-md-3 {
+  color: lavender;
+}
