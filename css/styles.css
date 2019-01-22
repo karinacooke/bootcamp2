@@ -22,3 +22,30 @@ header {
 .col-md-3 {
   color: lavender;
 }
+
+@media only screen and (min-width: 768px) {
+  .container-fluid {
+    color: blue;
+  }
+
+  .row {
+    color: black;
+  }
+
+  .col-md-12 {
+    color: red;
+  }
+
+  header {
+    height: 200px;
+    background-color: yellow;
+  }
+
+  .col-md-9 {
+    color: pink;
+  }
+
+  .col-md-3 {
+    color: aqua;
+  }
+}
